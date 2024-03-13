@@ -6,7 +6,7 @@ Technology Stack:
     Python
     Flask - To build the web server that runs continuously
     NewsAPI - A free API used to fetch latest news articles from supported sources
-    Discord.py - To interface with the Discord API and send messages
+    Discord Webhook - To send messages to the discord channel
 
 Working:
 
